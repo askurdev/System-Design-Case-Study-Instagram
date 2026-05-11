@@ -103,6 +103,6 @@ Conclusion
 Designing scalable systems for instagram’300 million monthly active users involves careful consideration of load balancing, redundancy, security measures, and efficient content delivery. The proposed Solutions for user authentication and media content delivery aim to provide a seamless and secure user experience while ensuring.
 
 
-Check out my Notion case studies 🔗 Instagram-Case Study of System Design
+Check out my Notion case studies 🔗 Instagram-Case Study of System Design Link : https://askur.notion.site/Instagram-Case-Study-of-System-Design-71126dcb7721419dbdcc0d44ae0015e3
 
 #SystemDesign #Instagram #SoftwareArchitecture #FullStackDeveloper #CDN #Microservices #WebDevelopment
